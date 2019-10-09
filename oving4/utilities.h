@@ -1,0 +1,10 @@
+int incrementByValueNumTimes(int startValue, int increment, int numTimes);
+void incrementByValueNumTimes2(int *startValue, int increment, int numTimes);
+void swapNumbers(int *a, int *b);
+void printArray(int array[], int l);
+void randomizeArray(int array[], int l);
+void sortArray(int array[], int l);
+double medianOfArray(int array[], int l);
+void randomizeCString(char array[], int tegn, char upper, char lower);
+void readInputToCString(char array[], int l, char lower, char upper);
+int countOccurencesOfCharacter(char array[], int l, char asd);
