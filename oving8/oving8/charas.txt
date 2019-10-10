@@ -1,0 +1,5 @@
+Skriv en funksjon som leser en tekstfil og viser statistikk over bokstavene i filen
+paa skjermen
+Programmet skal telle antall bokstaver i filen og hvor mange ganger hver bokstav forekommer
+Du kan begrense antall forskjellige bokstaver du teller til normale engelske bokstaver
+az og du kan ogsaa forenkle oppgaven ved aa konvertere alle bokstavene til smaa bokstaver

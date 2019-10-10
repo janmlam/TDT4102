@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jan\dropbox\cpp\oving10\oving10\main.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jan\dropbox\cpp\oving10\oving10\main.cpp(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  oving10.vcxproj -> C:\Users\Jan\Dropbox\cpp\oving10\Debug\oving10.exe
