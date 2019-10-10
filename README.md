@@ -1,1 +1,1 @@
-# TDT4102-2017 
+# Assignments for the TDT4102 course 2017
